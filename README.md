@@ -1,2 +1,2 @@
 # snakegamenew
-Language used -css &amp; Js
+Language used -html,css &amp; Js
